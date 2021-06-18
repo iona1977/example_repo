@@ -2,4 +2,4 @@ Hi, I'm a text file!
 
 Hello text file, I'm Kelly.
 
-This is Iona
+Hi, this is Iona
